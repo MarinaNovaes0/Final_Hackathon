@@ -1,0 +1,5 @@
+babel == 2.16.0
+bcrypt == 4.2.0
+mysql-connector-python == 9.1.0
+pillow == 11.0.0
+tkcalendar == 1.6.1
